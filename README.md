@@ -99,6 +99,6 @@ python test_api.py
 ---
 
 ## 9. Video demo
-Dán link video tại đây
+https://drive.google.com/drive/folders/1HJXe08dxr2KTG-fAqdkqOUeFZMrnaLnb
 
 ---
