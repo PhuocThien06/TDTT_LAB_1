@@ -1,4 +1,3 @@
-readme_content = """
 # SENTIMENT ANALYSIS API USING FASTAPI
 
 ## 1. Thông tin sinh viên
